@@ -1,4 +1,4 @@
-const main = require('./index.js');
+const main = require('./answer.js');
 
 test('main function exists', () => {
   expect(typeof main).toBe('function');
